@@ -29,5 +29,3 @@
 ## Contribution
 Contributions are welcome! Fork, submit pull requests, or open issues to improve features or optimize performance.
 
-## License
-Licensed under the MIT License.
